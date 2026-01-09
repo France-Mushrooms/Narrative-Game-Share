@@ -3604,8 +3604,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 2470.5007
-        y: 43.304626
+        x: 3499.347
+        y: 1
         width: 160
         height: 30
     - id: 3
@@ -3659,8 +3659,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1831.6406
-        y: 105.15288
+        x: 3123.2324
+        y: 1
         width: 160
         height: 30
     - id: 4
@@ -3714,8 +3714,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3218.2937
-        y: 104.47008
+        x: 3743.294
+        y: 19.75
         width: 160
         height: 30
     - id: 5
@@ -3769,8 +3769,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1833.6406
-        y: 163.15285
+        x: 3185.3354
+        y: 1
         width: 160
         height: 30
     - id: 7
@@ -3824,8 +3824,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3222.1428
-        y: 155.2509
+        x: 3747.143
+        y: 19.75
         width: 160
         height: 30
     - id: 8
@@ -3879,8 +3879,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1833.6406
-        y: 213.15279
+        x: 3059.3079
+        y: 1
         width: 160
         height: 30
     - id: 9
@@ -3934,8 +3934,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3221.1428
-        y: 203.2509
+        x: 3746.143
+        y: 19.75
         width: 160
         height: 30
     - id: 10
@@ -4001,8 +4001,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1833.6406
-        y: 263.15277
+        x: 3359.3079
+        y: 1
         width: 160
         height: 30
     - id: 11
@@ -4068,8 +4068,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3221.1428
-        y: 253.2509
+        x: 3746.143
+        y: 19.75
         width: 160
         height: 30
     - id: 12
@@ -4123,8 +4123,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1550.5796
-        y: 301.29822
+        x: 3353.9453
+        y: 1
         width: 160
         height: 30
     - id: 13
@@ -4178,8 +4178,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1931.6522
-        y: 325.1917
+        x: 3647.7305
+        y: 1
         width: 160
         height: 30
     - id: 14
@@ -4233,8 +4233,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 2296.812
-        y: 303.48474
+        x: 3792.4856
+        y: 1
         width: 160
         height: 30
     - id: 15
@@ -4288,8 +4288,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 2708.6824
-        y: 316.66248
+        x: 3658.5967
+        y: 1
         width: 160
         height: 30
     - id: 16
@@ -4343,8 +4343,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3149.1199
-        y: 316.92578
+        x: 3674.12
+        y: 19.75
         width: 160
         height: 30
     - id: 17
@@ -4398,8 +4398,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3512.3455
-        y: 329.7121
+        x: 4037.3457
+        y: 19.75
         width: 160
         height: 30
     - id: 18
@@ -4459,8 +4459,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1552.5027
-        y: 341.68286
+        x: 3355.8684
+        y: 1
         width: 160
         height: 30
     - id: 19
@@ -4520,8 +4520,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1931.4012
-        y: 375.19165
+        x: 3340.6304
+        y: 1
         width: 160
         height: 30
     - id: 20
@@ -4581,8 +4581,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 2300.9216
-        y: 352.11493
+        x: 3796.5952
+        y: 1
         width: 160
         height: 30
     - id: 21
@@ -4642,8 +4642,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 2711.422
-        y: 359.5735
+        x: 3183.7244
+        y: 1
         width: 160
         height: 30
     - id: 22
@@ -4703,8 +4703,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3150.2
-        y: 365.31616
+        x: 3675.2002
+        y: 19.75
         width: 160
         height: 30
     - id: 23
@@ -4764,8 +4764,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3522.777
-        y: 372.45532
+        x: 4047.7773
+        y: 19.75
         width: 160
         height: 30
     - id: 24
@@ -4813,8 +4813,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1466.383
-        y: 414.50916
+        x: 3250.5178
+        y: 1
         width: 160
         height: 30
     - id: 25
@@ -4862,8 +4862,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1664.0411
-        y: 414.7599
+        x: 3528.9453
+        y: 1
         width: 160
         height: 30
     - id: 26
@@ -4911,8 +4911,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1844.863
-        y: 423.26862
+        x: 3391.6526
+        y: 1
         width: 160
         height: 30
     - id: 27
@@ -4960,8 +4960,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 2025.632
-        y: 421.34558
+        x: 3689.6553
+        y: 1
         width: 160
         height: 30
     - id: 28
@@ -5009,8 +5009,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 2216.5571
-        y: 419.4226
+        x: 3919.9229
+        y: 1
         width: 160
         height: 30
     - id: 29
@@ -5058,8 +5058,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 2393.2292
-        y: 415.57642
+        x: 3888.9028
+        y: 1
         width: 160
         height: 30
     - id: 30
@@ -5107,8 +5107,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 2619.1143
-        y: 413.41968
+        x: 3107.8345
+        y: 1
         width: 160
         height: 30
     - id: 31
@@ -5156,8 +5156,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 2809.4988
-        y: 413.41956
+        x: 3507.5186
+        y: 1
         width: 160
         height: 30
     - id: 32
@@ -5205,8 +5205,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3059.8152
-        y: 415.31616
+        x: 3584.8154
+        y: 19.75
         width: 160
         height: 30
     - id: 33
@@ -5254,8 +5254,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3234.8152
-        y: 413.1422
+        x: 3759.8154
+        y: 19.75
         width: 160
         height: 30
     - id: 34
@@ -5303,8 +5303,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3445.8538
-        y: 416.4353
+        x: 3317.0078
+        y: 1
         width: 160
         height: 30
     - id: 35
@@ -5352,8 +5352,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 3624.7
-        y: 414.76294
+        x: 3672.777
+        y: 1
         width: 160
         height: 30
     - id: 36
@@ -5406,15 +5406,15 @@ MonoBehaviour:
         destinationDialogueID: 38
         isConnector: 0
         priority: 2
-      conditionsString: 
-      userScript: 
+      conditionsString: CurrentQuestState("Go Talk to the Farmer") == "active"
+      userScript: SetQuestState("Go Talk to the Farmer", "success")
       onExecute:
         m_PersistentCalls:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 652.2976
-        y: 28.270226
+        x: 1030.5942
+        y: 22.265526
         width: 160
         height: 30
     - id: 37
@@ -5468,8 +5468,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 354.2771
-        y: 85.89515
+        x: 504.6774
+        y: 83.56957
         width: 160
         height: 30
     - id: 38
@@ -5523,8 +5523,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 929.1307
-        y: 88.880226
+        x: 1577.351
+        y: 63.8209
         width: 160
         height: 30
     - id: 39
@@ -5579,8 +5579,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 354.2771
-        y: 135.89516
+        x: 504.6774
+        y: 133.56958
         width: 160
         height: 30
     - id: 40
@@ -5635,8 +5635,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 929.1307
-        y: 138.88023
+        x: 1577.351
+        y: 113.82091
         width: 160
         height: 30
     - id: 41
@@ -5693,8 +5693,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 354.2771
-        y: 185.89516
+        x: 504.6774
+        y: 183.56958
         width: 160
         height: 30
     - id: 42
@@ -5751,8 +5751,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 929.1307
-        y: 188.88023
+        x: 1577.351
+        y: 163.8209
         width: 160
         height: 30
     - id: 43
@@ -5806,8 +5806,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 354.2771
-        y: 235.89513
+        x: 504.6774
+        y: 233.56955
         width: 160
         height: 30
     - id: 44
@@ -5861,8 +5861,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 929.1307
-        y: 238.88023
+        x: 1577.351
+        y: 213.8209
         width: 160
         height: 30
     - id: 45
@@ -5916,8 +5916,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 354.2771
-        y: 285.89502
+        x: 504.6774
+        y: 283.56946
         width: 160
         height: 30
     - id: 46
@@ -5971,8 +5971,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 930.0235
-        y: 289.77307
+        x: 1578.2438
+        y: 264.7138
         width: 160
         height: 30
     - id: 47
@@ -6040,8 +6040,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 356.6027
-        y: 335.89502
+        x: 507.003
+        y: 333.56946
         width: 160
         height: 30
     - id: 48
@@ -6083,7 +6083,25 @@ MonoBehaviour:
       delaySimStatus: 0
       falseConditionAction: Block
       conditionPriority: 2
-      outgoingLinks: []
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 48
+        destinationConversationID: 5
+        destinationDialogueID: 67
+        isConnector: 0
+        priority: 2
+      - originConversationID: 5
+        originDialogueID: 48
+        destinationConversationID: 5
+        destinationDialogueID: 68
+        isConnector: 0
+        priority: 2
+      - originConversationID: 5
+        originDialogueID: 48
+        destinationConversationID: 5
+        destinationDialogueID: 69
+        isConnector: 0
+        priority: 2
       conditionsString: 
       userScript: 
       onExecute:
@@ -6091,8 +6109,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 930.0235
-        y: 339.77307
+        x: 1578.2438
+        y: 314.7138
         width: 160
         height: 30
     - id: 49
@@ -6146,8 +6164,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 112.41693
-        y: 402.17407
+        x: 172.11957
+        y: 397.5229
         width: 160
         height: 30
     - id: 50
@@ -6201,8 +6219,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 354.2771
-        y: 404.49963
+        x: 520.00336
+        y: 395.88348
         width: 160
         height: 30
     - id: 51
@@ -6228,7 +6246,8 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: 
+        value: Does your devotion to Sin cleanse you, are those of the ziggurat as
+          faithful?
         type: 0
         typeString: 
       - title: Sequence
@@ -6256,63 +6275,11 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 570.55597
-        y: 402.17407
+        x: 859.7281
+        y: 399.84845
         width: 160
         height: 30
     - id: 52
-      fields:
-      - title: Title
-        value: 
-        type: 0
-        typeString: 
-      - title: Description
-        value: 
-        type: 0
-        typeString: 
-      - title: Actor
-        value: 5
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Conversant
-        value: 1
-        type: 5
-        typeString: CustomFieldType_Actor
-      - title: Menu Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Dialogue Text
-        value: 
-        type: 0
-        typeString: 
-      - title: Sequence
-        value: 
-        type: 0
-        typeString: 
-      conversationID: 5
-      isRoot: 0
-      isGroup: 0
-      nodeColor: 
-      delaySimStatus: 0
-      falseConditionAction: Block
-      conditionPriority: 2
-      outgoingLinks: []
-      conditionsString: 
-      userScript: Sin reigns over our land, and I devote myself completely to him.
-        His cleansing shall be for us all, followers of the ziggurat included. Those
-        cleansed will remain to continue their devotion, though those deemed unworthy
-        may be judged by Sin and Sin alone.
-      onExecute:
-        m_PersistentCalls:
-          m_Calls: []
-      canvasRect:
-        serializedVersion: 2
-        x: 112.41693
-        y: 452.17407
-        width: 160
-        height: 30
-    - id: 53
       fields:
       - title: Title
         value: 
@@ -6352,7 +6319,13 @@ MonoBehaviour:
       delaySimStatus: 0
       falseConditionAction: Block
       conditionPriority: 2
-      outgoingLinks: []
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 52
+        destinationConversationID: 5
+        destinationDialogueID: 55
+        isConnector: 0
+        priority: 2
       conditionsString: 
       userScript: 
       onExecute:
@@ -6360,8 +6333,64 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 354.2771
-        y: 454.49963
+        x: 174.44514
+        y: 445.19727
+        width: 160
+        height: 30
+    - id: 53
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: The only true faith is in Sin, and those devoted to Enheduanna may
+          discover if this is the right place to put their faith in the cleansing
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 53
+        destinationConversationID: 5
+        destinationDialogueID: 56
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 523.28204
+        y: 447.52283
         width: 160
         height: 30
     - id: 54
@@ -6406,7 +6435,13 @@ MonoBehaviour:
       delaySimStatus: 0
       falseConditionAction: Block
       conditionPriority: 2
-      outgoingLinks: []
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 54
+        destinationConversationID: 5
+        destinationDialogueID: 57
+        isConnector: 0
+        priority: 2
       conditionsString: 
       userScript: 
       onExecute:
@@ -6414,13 +6449,1667 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 570.55597
-        y: 452.17407
+        x: 858.1656
+        y: 449.84845
+        width: 160
+        height: 30
+    - id: 55
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I want to speak with the high Priestess
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 55
+        destinationConversationID: 5
+        destinationDialogueID: 58
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 174.44514
+        y: 495.19727
+        width: 160
+        height: 30
+    - id: 56
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I want to speak with the high Priestess
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 56
+        destinationConversationID: 5
+        destinationDialogueID: 59
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 523.28204
+        y: 497.52283
+        width: 160
+        height: 30
+    - id: 57
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I want to speak with the high Priestess
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 57
+        destinationConversationID: 5
+        destinationDialogueID: 60
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 858.1656
+        y: 499.84845
+        width: 160
+        height: 30
+    - id: 58
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: "That will be a hard task friend, you should go speak with the Bronze
+          smith he\u2019s a very influential man, altho he is not fond of walk in
+          visitors, i would suggest that you speak with the ferryman or the trader
+          both of them probably have something for the smith, besides i know the
+          trader never wants to leave his stall and the ferryman is too lazy to leave
+          his boat.  "
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 58
+        destinationConversationID: 5
+        destinationDialogueID: 61
+        isConnector: 0
+        priority: 2
+      - originConversationID: 5
+        originDialogueID: 58
+        destinationConversationID: 5
+        destinationDialogueID: 62
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 174.44514
+        y: 545.19727
+        width: 160
+        height: 30
+    - id: 59
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: "That will be a hard task friend, you should go speak with the Bronze
+          smith he\u2019s a very influential man, altho he is not fond of walk in
+          visitors, i would suggest that you speak with the ferryman or the trader
+          both of them probably have something for the smith, besides i know the
+          trader never wants to leave his stall and the ferryman is too lazy to leave
+          his boat.  "
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 59
+        destinationConversationID: 5
+        destinationDialogueID: 63
+        isConnector: 0
+        priority: 2
+      - originConversationID: 5
+        originDialogueID: 59
+        destinationConversationID: 5
+        destinationDialogueID: 64
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 523.28204
+        y: 547.5228
+        width: 160
+        height: 30
+    - id: 60
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: "That will be a hard task friend, you should go speak with the Bronze
+          smith he\u2019s a very influential man, altho he is not fond of walk in
+          visitors, i would suggest that you speak with the ferryman or the trader
+          both of them probably have something for the smith, besides i know the
+          trader never wants to leave his stall and the ferryman is too lazy to leave
+          his boat.  "
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 60
+        destinationConversationID: 5
+        destinationDialogueID: 65
+        isConnector: 0
+        priority: 2
+      - originConversationID: 5
+        originDialogueID: 60
+        destinationConversationID: 5
+        destinationDialogueID: 66
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 858.1656
+        y: 549.84845
+        width: 160
+        height: 30
+    - id: 61
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Ferryman
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Ferryman", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 85.750305
+        y: 597.9593
+        width: 160
+        height: 30
+    - id: 62
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Trader
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Trader", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 259.0127
+        y: 596.9214
+        width: 160
+        height: 30
+    - id: 63
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Trader
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Trader", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 609.32855
+        y: 600.1153
+        width: 160
+        height: 30
+    - id: 64
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Ferryman
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Ferryman", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 441.88672
+        y: 597.5228
+        width: 160
+        height: 30
+    - id: 65
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Ferryman
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Ferryman", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 786.0726
+        y: 595.1973
+        width: 160
+        height: 30
+    - id: 66
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Trader
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Trader", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 958.1656
+        y: 595.1973
+        width: 160
+        height: 30
+    - id: 67
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Can we hold faith in Enheduanna to guide us to her salvation?
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 67
+        destinationConversationID: 5
+        destinationDialogueID: 70
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: Variable["Morality"] = Variable["Morality"] + 3
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1227.0048
+        y: 396.60916
+        width: 160
+        height: 30
+    - id: 68
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Those of the temple have already attained this salvation
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 68
+        destinationConversationID: 5
+        destinationDialogueID: 71
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: Variable["Morality"] = Variable["Morality"] + 0
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1574.8885
+        y: 394.96976
+        width: 160
+        height: 30
+    - id: 69
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Does your devotion to Sin cleanse you, are those of the ziggurat as
+          faithful?
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 69
+        destinationConversationID: 5
+        destinationDialogueID: 72
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: Variable["Morality"] = Variable["Morality"] - 3
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1914.6133
+        y: 398.93472
+        width: 160
+        height: 30
+    - id: 70
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Sin reigns over our land, and I devote myself completely to him. His
+          cleansing shall be for us all, followers of the ziggurat included. Those
+          cleansed will remain to continue their devotion, though those deemed unworthy
+          may be judged by Sin and Sin alone.
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 70
+        destinationConversationID: 5
+        destinationDialogueID: 73
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1229.3303
+        y: 444.28354
+        width: 160
+        height: 30
+    - id: 71
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: The only true faith is in Sin, and those devoted to Enheduanna may
+          discover if this is the right place to put their faith in the cleansing
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 71
+        destinationConversationID: 5
+        destinationDialogueID: 74
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1578.1672
+        y: 446.6091
+        width: 160
+        height: 30
+    - id: 72
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: The High priestess is as her title, high above. Her actions and words
+          may be of my faith, but not of my interests. Should this great flood come,
+          my fields will be destroyed, my home and those of many others gone. What
+          solace can my family find in the words of one so removed from this cleansing?
+          Should the ziggurat be our only hope, my only hope would be that all may
+          be saved regardless of faith.
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 72
+        destinationConversationID: 5
+        destinationDialogueID: 75
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1913.0508
+        y: 448.93472
+        width: 160
+        height: 30
+    - id: 73
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I want to speak with the high Priestess
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 73
+        destinationConversationID: 5
+        destinationDialogueID: 76
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1229.3303
+        y: 494.2835
+        width: 160
+        height: 30
+    - id: 74
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I want to speak with the high Priestess
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 74
+        destinationConversationID: 5
+        destinationDialogueID: 77
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1578.1672
+        y: 496.60907
+        width: 160
+        height: 30
+    - id: 75
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: I want to speak with the high Priestess
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 75
+        destinationConversationID: 5
+        destinationDialogueID: 78
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1913.0508
+        y: 498.93475
+        width: 160
+        height: 30
+    - id: 76
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: "That will be a hard task friend, you should go speak with the Bronze
+          smith he\u2019s a very influential man, altho he is not fond of walk in
+          visitors, i would suggest that you speak with the ferryman or the trader
+          both of them probably have something for the smith, besides i know the
+          trader never wants to leave his stall and the ferryman is too lazy to leave
+          his boat.  "
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 76
+        destinationConversationID: 5
+        destinationDialogueID: 79
+        isConnector: 0
+        priority: 2
+      - originConversationID: 5
+        originDialogueID: 76
+        destinationConversationID: 5
+        destinationDialogueID: 80
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1229.3303
+        y: 544.28357
+        width: 160
+        height: 30
+    - id: 77
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: "That will be a hard task friend, you should go speak with the Bronze
+          smith he\u2019s a very influential man, altho he is not fond of walk in
+          visitors, i would suggest that you speak with the ferryman or the trader
+          both of them probably have something for the smith, besides i know the
+          trader never wants to leave his stall and the ferryman is too lazy to leave
+          his boat.  "
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 77
+        destinationConversationID: 5
+        destinationDialogueID: 81
+        isConnector: 0
+        priority: 2
+      - originConversationID: 5
+        originDialogueID: 77
+        destinationConversationID: 5
+        destinationDialogueID: 82
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1578.1672
+        y: 546.60913
+        width: 160
+        height: 30
+    - id: 78
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: "That will be a hard task friend, you should go speak with the Bronze
+          smith he\u2019s a very influential man, altho he is not fond of walk in
+          visitors, i would suggest that you speak with the ferryman or the trader
+          both of them probably have something for the smith, besides i know the
+          trader never wants to leave his stall and the ferryman is too lazy to leave
+          his boat.  "
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 5
+        originDialogueID: 78
+        destinationConversationID: 5
+        destinationDialogueID: 83
+        isConnector: 0
+        priority: 2
+      - originConversationID: 5
+        originDialogueID: 78
+        destinationConversationID: 5
+        destinationDialogueID: 84
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1913.0508
+        y: 548.9348
+        width: 160
+        height: 30
+    - id: 79
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Ferryman
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Ferryman", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1140.6355
+        y: 597.04565
+        width: 160
+        height: 30
+    - id: 80
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Trader
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Trader", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1313.898
+        y: 596.0077
+        width: 160
+        height: 30
+    - id: 81
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Trader
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Trader", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1664.2137
+        y: 599.20166
+        width: 160
+        height: 30
+    - id: 82
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Ferryman
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Ferryman", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1496.772
+        y: 596.60913
+        width: 160
+        height: 30
+    - id: 83
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Ferryman
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Ferryman", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 1840.9578
+        y: 594.2837
+        width: 160
+        height: 30
+    - id: 84
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 5
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: Thank you, I will find the Trader
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 5
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: SetQuestState("Go Talk to the Trader", "active")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 2013.0508
+        y: 594.2837
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 0.4300005
+    canvasScrollPosition: {x: 93.085144, y: 23.601398}
+    canvasZoom: 0.52
   - id: 6
     fields:
     - title: Title
@@ -7289,8 +8978,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 0.07681656, y: 0}
-    canvasZoom: 0.6100004
+    canvasScrollPosition: {x: 102.2542, y: 19.818897}
+    canvasZoom: 0.6700003
   - id: 7
     fields:
     - title: Title
@@ -7378,7 +9067,7 @@ MonoBehaviour:
       - originConversationID: 7
         originDialogueID: 0
         destinationConversationID: 7
-        destinationDialogueID: 1
+        destinationDialogueID: 15
         isConnector: 0
         priority: 2
       conditionsString: 
@@ -7443,8 +9132,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 514
-        y: 29
+        x: 967.94727
+        y: 30.315796
         width: 160
         height: 30
     - id: 2
@@ -7498,8 +9187,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 514
-        y: 79
+        x: 967.94727
+        y: 80.315796
         width: 160
         height: 30
     - id: 3
@@ -7553,8 +9242,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 514
-        y: 129
+        x: 967.94727
+        y: 130.3158
         width: 160
         height: 30
     - id: 4
@@ -7608,8 +9297,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 514
-        y: 179
+        x: 967.94727
+        y: 180.3158
         width: 160
         height: 30
     - id: 5
@@ -7675,8 +9364,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 513
-        y: 227
+        x: 966.94727
+        y: 228.3158
         width: 160
         height: 30
     - id: 6
@@ -7730,8 +9419,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 288
-        y: 274
+        x: 741.94727
+        y: 275.31573
         width: 160
         height: 30
     - id: 7
@@ -7785,8 +9474,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 513
-        y: 277
+        x: 966.94727
+        y: 278.31573
         width: 160
         height: 30
     - id: 8
@@ -7840,8 +9529,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 726.31586
-        y: 280
+        x: 1180.2634
+        y: 281.31573
         width: 160
         height: 30
     - id: 9
@@ -7895,8 +9584,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 288
-        y: 324
+        x: 741.94727
+        y: 325.31573
         width: 160
         height: 30
     - id: 10
@@ -7950,8 +9639,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 513
-        y: 327
+        x: 966.94727
+        y: 328.31573
         width: 160
         height: 30
     - id: 11
@@ -8005,8 +9694,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 725
-        y: 330
+        x: 1178.9475
+        y: 331.31573
         width: 160
         height: 30
     - id: 12
@@ -8054,8 +9743,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 290.63156
-        y: 374
+        x: 744.5788
+        y: 375.31573
         width: 160
         height: 30
     - id: 13
@@ -8103,8 +9792,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 513
-        y: 377
+        x: 966.94727
+        y: 378.31573
         width: 160
         height: 30
     - id: 14
@@ -8152,8 +9841,277 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 725
-        y: 380
+        x: 1178.9475
+        y: 381.31573
+        width: 160
+        height: 30
+    - id: 15
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 7
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: '[[Are you the Farryman]]'
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 7
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 7
+        originDialogueID: 15
+        destinationConversationID: 7
+        destinationDialogueID: 16
+        isConnector: 0
+        priority: 2
+      conditionsString: CurrentQuestState("Go Talk to the Ferryman") == "active"
+      userScript: SetQuestState("Go Talk to the Ferryman", "success")
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 386.31573
+        y: 30.000023
+        width: 160
+        height: 30
+    - id: 16
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 7
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: "Who's asking\u2026 and why"
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 7
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 7
+        originDialogueID: 16
+        destinationConversationID: 7
+        destinationDialogueID: 17
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 386.31573
+        y: 80.00002
+        width: 160
+        height: 30
+    - id: 17
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 7
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 7
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 7
+        originDialogueID: 17
+        destinationConversationID: 7
+        destinationDialogueID: 18
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 384.99997
+        y: 130.00003
+        width: 160
+        height: 30
+    - id: 18
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 7
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 7
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 7
+        originDialogueID: 18
+        destinationConversationID: 7
+        destinationDialogueID: 19
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 386.31573
+        y: 180.00003
+        width: 160
+        height: 30
+    - id: 19
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 7
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 7
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks: []
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 386.31573
+        y: 230.00003
         width: 160
         height: 30
     entryGroups: []
@@ -8482,8 +10440,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1728.7339
-        y: 184.36731
+        x: 1224.6526
+        y: 163.95915
         width: 160
         height: 30
     - id: 5
@@ -8537,8 +10495,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1728.7339
-        y: 234.36731
+        x: 1224.6526
+        y: 213.95915
         width: 160
         height: 30
     - id: 6
@@ -8592,8 +10550,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1728.7339
-        y: 284.3673
+        x: 1224.6526
+        y: 263.95917
         width: 160
         height: 30
     - id: 7
@@ -8659,8 +10617,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1728.7339
-        y: 334.3673
+        x: 1224.6526
+        y: 313.95917
         width: 160
         height: 30
     - id: 8
@@ -8714,8 +10672,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1522.6117
-        y: 421.10205
+        x: 1018.5304
+        y: 400.6939
         width: 160
         height: 30
     - id: 9
@@ -8769,8 +10727,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1722.6115
-        y: 425.1836
+        x: 1218.5302
+        y: 404.77545
         width: 160
         height: 30
     - id: 10
@@ -8824,8 +10782,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1914.448
-        y: 427.22443
+        x: 1410.3667
+        y: 406.81628
         width: 160
         height: 30
     - id: 11
@@ -8879,8 +10837,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1522.6117
-        y: 471.10205
+        x: 1018.5304
+        y: 450.6939
         width: 160
         height: 30
     - id: 12
@@ -8934,8 +10892,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1722.6115
-        y: 477.22443
+        x: 1218.5302
+        y: 456.81628
         width: 160
         height: 30
     - id: 13
@@ -8989,8 +10947,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1914.448
-        y: 477.22443
+        x: 1410.3667
+        y: 456.81628
         width: 160
         height: 30
     - id: 14
@@ -9637,8 +11595,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1522.6117
-        y: 521.10205
+        x: 1018.5304
+        y: 500.6939
         width: 160
         height: 30
     - id: 26
@@ -9686,8 +11644,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1722.6115
-        y: 527.2244
+        x: 1218.5302
+        y: 506.81628
         width: 160
         height: 30
     - id: 27
@@ -9735,8 +11693,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1914.448
-        y: 527.2244
+        x: 1410.3667
+        y: 506.81628
         width: 160
         height: 30
     entryGroups: []
@@ -10601,8 +12559,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1013.49976
-        y: 11.775864
+        x: 622.1207
+        y: 34.189636
         width: 160
         height: 30
     - id: 2
@@ -10656,8 +12614,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1018.49976
-        y: 67.81252
+        x: 627.1207
+        y: 90.226295
         width: 160
         height: 30
     - id: 3
@@ -10711,8 +12669,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1016.49976
-        y: 123.812515
+        x: 625.1207
+        y: 146.22629
         width: 160
         height: 30
     - id: 4
@@ -10766,8 +12724,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1014.49976
-        y: 185.26079
+        x: 623.1207
+        y: 207.67456
         width: 160
         height: 30
     - id: 5
@@ -10833,8 +12791,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1014.49976
-        y: 231.81252
+        x: 623.1207
+        y: 254.22629
         width: 160
         height: 30
     - id: 6
@@ -10888,8 +12846,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 541.22424
-        y: 320.875
+        x: 267.0865
+        y: 338.11627
         width: 160
         height: 30
     - id: 7
@@ -10949,8 +12907,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 537.93756
-        y: 372.43747
+        x: 263.7998
+        y: 389.6787
         width: 160
         height: 30
     - id: 8
@@ -11004,8 +12962,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1017.6248
-        y: 327.12497
+        x: 626.2458
+        y: 349.53864
         width: 160
         height: 30
     - id: 9
@@ -11059,8 +13017,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 411.37512
-        y: 425.56247
+        x: 137.23737
+        y: 442.8037
         width: 160
         height: 30
     - id: 10
@@ -11114,8 +13072,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 642.7867
-        y: 430.24997
+        x: 368.64893
+        y: 447.4912
         width: 160
         height: 30
     - id: 11
@@ -11163,8 +13121,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 413.09924
-        y: 473.83835
+        x: 138.96149
+        y: 491.0796
         width: 160
         height: 30
     - id: 12
@@ -11212,8 +13170,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 641.06256
-        y: 480.24997
+        x: 366.9248
+        y: 497.4912
         width: 160
         height: 30
     - id: 13
@@ -11273,8 +13231,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1022.31226
-        y: 377.12497
+        x: 630.9332
+        y: 399.53864
         width: 160
         height: 30
     - id: 14
@@ -11328,8 +13286,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 942.6248
-        y: 430.24997
+        x: 551.2458
+        y: 452.66364
         width: 160
         height: 30
     - id: 15
@@ -11383,8 +13341,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1123.8746
-        y: 431.81247
+        x: 732.4956
+        y: 454.22614
         width: 160
         height: 30
     - id: 16
@@ -11432,8 +13390,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1123.8746
-        y: 481.81247
+        x: 732.4956
+        y: 504.22614
         width: 160
         height: 30
     - id: 17
@@ -11481,8 +13439,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 942.6248
-        y: 481.9741
+        x: 551.2458
+        y: 504.38776
         width: 160
         height: 30
     - id: 18
@@ -11536,8 +13494,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1431.8486
-        y: 297.4375
+        x: 1040.4712
+        y: 319.85114
         width: 160
         height: 30
     - id: 19
@@ -11597,8 +13555,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1431.687
-        y: 344.3125
+        x: 1040.3096
+        y: 366.72614
         width: 160
         height: 30
     - id: 20
@@ -11652,8 +13610,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1330.1246
-        y: 422.4375
+        x: 938.7467
+        y: 444.85114
         width: 160
         height: 30
     - id: 21
@@ -11707,8 +13665,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1545.7495
-        y: 422.4375
+        x: 1154.3721
+        y: 444.85114
         width: 160
         height: 30
     - id: 22
@@ -11756,8 +13714,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1331.8488
-        y: 474.16162
+        x: 940.4708
+        y: 496.57526
         width: 160
         height: 30
     - id: 23
@@ -11805,8 +13763,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 1550.9219
-        y: 474.16168
+        x: 1159.5444
+        y: 496.57532
         width: 160
         height: 30
     entryGroups: []
@@ -14724,7 +16682,7 @@ MonoBehaviour:
         isConnector: 0
         priority: 2
       conditionsString: 
-      userScript: 
+      userScript: Variable["Morality"] = 0
       onExecute:
         m_PersistentCalls:
           m_Calls: []
@@ -15978,8 +17936,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 51.117676, y: 0}
-    canvasZoom: 0.6099999
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.42999995
   - id: 15
     fields:
     - title: Title
