@@ -21432,7 +21432,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 307.42267
+        x: 308.4536
         y: 22.268044
         width: 160
         height: 30
@@ -21555,8 +21555,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 307.42267
-        y: 122.26804
+        x: 308.45358
+        y: 119.17526
         width: 160
         height: 30
     - id: 12
@@ -21587,7 +21587,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: SetEnabled(;
+        value: SetActive(Ending PG,true)
         type: 0
         typeString: 
       conversationID: 13
@@ -21599,7 +21599,7 @@ MonoBehaviour:
       conditionPriority: 2
       outgoingLinks: []
       conditionsString: Variable["Morality"] >= 9
-      userScript: 
+      userScript: SetQuestState("Rebel", "unassigned")
       onExecute:
         m_PersistentCalls:
           m_Calls: []
@@ -21637,7 +21637,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: SetActive(Ending PB,true)
         type: 0
         typeString: 
       conversationID: 13
@@ -21655,7 +21655,7 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 313.60828
+        x: 314.6392
         y: 171.23709
         width: 160
         height: 30
@@ -21688,7 +21688,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Sequence
-        value: 
+        value: SetActive(Ending RB,true)
         type: 0
         typeString: 
       conversationID: 13

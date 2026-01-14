@@ -5,7 +5,16 @@ public class SceneTransition : MonoBehaviour
 {
    [Tooltip("the name of the next scene to load")]
     public string nextSceneName;
+    public bool transitionOnEnable= false;
     
+
+
+  public void OnEnable(){
+    if (transitionOnEnable){
+      LoadNextScene();
+    }
+  }
+
 
       public void LoadNextScene()
     {
