@@ -8,10 +8,13 @@ public class PlayerMovementScript : MonoBehaviour
     float vertical;
     float moveLimiter = 0.7f;
 
+    Animator anim;
+
     public float runSpeed = 20.0f;
 
     void Start (){
         body = GetComponent<Rigidbody2D>();
+        anim = GetComponent<Animator>();
     }
 
     void Update ()
@@ -19,6 +22,17 @@ public class PlayerMovementScript : MonoBehaviour
 
         horizontal = Input.GetAxisRaw("Horizontal");
         vertical = Input.GetAxisRaw("Vertical");
+
+
+
+        if(horizontal != 0|| vertical !=0){
+            anim.SetBool("isWalking", true);
+            anim.SetFloat("animHorizontal", horizontal);
+            anim.SetFloat("animVertical", vertical);
+        }
+        else {
+           anim.SetBool("isWalking", false) ;
+        }
 
 
     }
