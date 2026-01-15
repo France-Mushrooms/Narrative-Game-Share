@@ -127,6 +127,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 642677405799979393, guid: 4f1b5cbcd702eac40aab4cffb9726c32, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 2328094039450051841, guid: 4d8c26338cf9e9d4f9ff7d3044c6d69c, type: 3}
     - target: {fileID: 1778012208914803435, guid: 4f1b5cbcd702eac40aab4cffb9726c32, type: 3}
       propertyPath: conversation
       value: Conversation With Elder
@@ -139,6 +143,14 @@ PrefabInstance:
       propertyPath: conversationActor
       value: 
       objectReference: {fileID: 1556138485}
+    - target: {fileID: 2031472078145942450, guid: 4f1b5cbcd702eac40aab4cffb9726c32, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 2031472078145942450, guid: 4f1b5cbcd702eac40aab4cffb9726c32, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.65
+      objectReference: {fileID: 0}
     - target: {fileID: 2031472078145942450, guid: 4f1b5cbcd702eac40aab4cffb9726c32, type: 3}
       propertyPath: m_LocalPosition.x
       value: -25.48
@@ -910,6 +922,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 642677405799979393, guid: 4f1b5cbcd702eac40aab4cffb9726c32, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 7630563747412101029, guid: 34c6d0a6c1970f944bf7d21b9fe0ebf9, type: 3}
     - target: {fileID: 1778012208914803435, guid: 4f1b5cbcd702eac40aab4cffb9726c32, type: 3}
       propertyPath: conversation
       value: Conversation With The Priestess
@@ -922,6 +938,14 @@ PrefabInstance:
       propertyPath: conversationActor
       value: 
       objectReference: {fileID: 1556138485}
+    - target: {fileID: 2031472078145942450, guid: 4f1b5cbcd702eac40aab4cffb9726c32, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 2031472078145942450, guid: 4f1b5cbcd702eac40aab4cffb9726c32, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.5
+      objectReference: {fileID: 0}
     - target: {fileID: 2031472078145942450, guid: 4f1b5cbcd702eac40aab4cffb9726c32, type: 3}
       propertyPath: m_LocalPosition.x
       value: -20.02
