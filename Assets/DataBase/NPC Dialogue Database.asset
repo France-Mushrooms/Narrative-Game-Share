@@ -21599,7 +21599,7 @@ MonoBehaviour:
       conditionPriority: 2
       outgoingLinks: []
       conditionsString: Variable["Morality"] >= 9
-      userScript: SetQuestState("Rebel", "unassigned")
+      userScript: 
       onExecute:
         m_PersistentCalls:
           m_Calls: []
